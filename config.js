@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["556999344469@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '556999344469' 
 // mude para seu numero
 
 const callbotmsgs = ['orion', 'brizas']
@@ -21,7 +21,7 @@ const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
 const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
 //mensagem do antipv
 
-const limitqnt = 9999
+const limitqnt = 99999999999
 
 const delayantispamcmd = 3
 //tempo de delay do antispamcmd (medido por segundos)
